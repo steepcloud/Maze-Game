@@ -49,12 +49,12 @@ This is a simple maze game implemented in C++. The player navigates through a ma
 ## How to play
 Use the following controls to navigate through the maze:
 
-i: Move up
-j: Move left
-k: Move down
-l: Move right
-s: Shoot in the direction the player is facing
-q: Quit the game
+i: Move up <br>
+j: Move left <br>
+k: Move down <br>
+l: Move right <br>
+s: Shoot in the direction the player is facing <br>
+q: Quit the game <br>
 The maze is represented by a grid, and each cell has a specific symbol representing its content:
 
 1: Wall
