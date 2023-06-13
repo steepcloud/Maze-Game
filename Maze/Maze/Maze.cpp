@@ -135,7 +135,7 @@ void move() {
 		if (grid[playerX][playerY] == player[direction]) {
 			if (check_wall(direction, playerX, playerY)) {
 				int x = playerX,
-					y = playerY;
+				    y = playerY;
 
 				playerX += moveY[direction];
 				playerY += moveX[direction];
