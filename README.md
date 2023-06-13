@@ -25,7 +25,7 @@ This is a simple maze game implemented in C++. The player navigates through a ma
    ```
 2. Navigate to the project directory:
    ```shell
-   cd Maze-Game/Maze
+   cd Maze-Game/Maze/Maze
    ```
 3. Compile for the source code:
    - For GCC:
