@@ -57,11 +57,11 @@ s: Shoot in the direction the player is facing <br>
 q: Quit the game <br>
 The maze is represented by a grid, and each cell has a specific symbol representing its content:
 
-1: Wall
-0: Clear path
-^, v, <, >: Player character facing up, down, left, and right, respectively
-T: Treasure
-M: Monster
+1: Wall <br>
+0: Clear path <br>
+^, v, <, >: Player character facing up, down, left, and right, respectively <br>
+T: Treasure <br>
+M: Monster <br>
 The objective is to collect treasures, avoid monsters, and achieve the highest score possible.
 
 ## Contributing
